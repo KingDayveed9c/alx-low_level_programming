@@ -1,1 +1,1 @@
-singly-linked test
+singly-linked list
