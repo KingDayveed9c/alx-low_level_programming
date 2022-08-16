@@ -28,5 +28,3 @@ int pop_listint(listint_t **head)
 
 	return (hnode);
 }
-Footer
-© 2022 GitHub, Inc.
